@@ -1,24 +1,38 @@
-@cheeaun's life
+@tensafefrogs' life
 ===============
 
-- 20/06/1985 Born
-- 1991 Kindergarten
-- 1992-1997 Primary school - SKSJ
-- 1998-2000 Secondary school - SMKTI
-- ~2000 First computer
-- 2001-2002 Secondary school - SMKDOB
-- 04/11/2002 Phoenity is born
-- 2003-2004 Secondary school (Form 6) - SMKDOB
-- 01/2005-03/2005 First (non-technical) job
-- 08/2005-08/2008 University - UTAR
-- 11/2005 Dead hard drive of first computer
-- 07/2006-05/2007 CSS Web Designer - MindValley
-- 18/12/2006 [First tweet](https://twitter.com/cheeaun/status/1298723)
-- 04/2007 First laptop (HP)
-- 06/2008-07/2009 Web Developer - ZoeCity
-- 24/08/2009-26/06/2013 Front-End Developer - Wego
-- 07/2010 Second laptop (Dell)
-- 04/03/2012 [HackerWeb featured](https://news.ycombinator.com/item?id=3662709) on Hacker News
-- 01/07/2013-~ Software Engineer - Viki
-- 02/12/2013 [Life featured](https://news.ycombinator.com/item?id=6833565) on Hacker News
-- 24/12/2013 Third laptop/ultrabook (Dell)
+- 26/05/1978 Born
+- Hawaii
+- Indiana
+- Atlanta
+- Orlando
+- Tucson
+- Indianapolis
+- Tucson
+- 1992-1993 Tucson High School
+- 1993-1994 Broad Ripple High School
+- 1994-1995 Bishop Chatard High School
+- ~11/1995 Stopped going to High School
+- ~02/1995 Went back to High School
+- 1995-1996 Tucson High School (Didn't graduate)
+- 1996 First computer
+- 1997 Built first personal website
+- 1996-1997 Worked at Subway as a Sandwich Artist
+- 1997 Worked at Cyberworld, selling PCs to people
+- ~1998 Pizza delivery for Blackjack
+- ~1999-2000 Phone tech support at Keane
+- 2001 First web design job @ Incocast 360
+- 05/2001 Visited NYC for the first time for Flash Forward conference (Was nominated for a technical award)
+- ~2001 Co-authored a chapter in a book, Macromedia Flash Super Samurai
+- 2001 Moved to Phoenix for 6 months after Infocast goes out of business
+- 2001 Moved back to Tucson because Phoenix sucks
+- Worked for
+- 10/2002-03/2004 Work for Raytheon doing internal website development and design
+- ~02/2004 Drunk driver hits me, MINI catches on fire and is totalled
+- ~02/2004 Decided to use car accident insurance money to move to NYC
+- ~03/2004 Moved to NYC
+- 11/2006 Interview @ Google for prototyper position, get turned down
+- 03/2007 Apply for YouTube developer position, flown to MV to interview (again), am offered the job!
+- 05/2007 Move to San Francisco
+- 10/2011 Move back to NYC
+- 06/2013~ @ Google NYC
